@@ -20,6 +20,7 @@ import HyperGridImage from "../assets/HyperGrid.png";
 import leotrippiImage from "../assets/leotrippi.png"; 
 import bellImage from "../assets/Bell Angle 1.png";
 
+
 const Homepage = () => {
   return (
     <div className="w-full min-h-screen overflow-x-hidden">
