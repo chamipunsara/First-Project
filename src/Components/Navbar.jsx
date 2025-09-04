@@ -3,14 +3,14 @@ import React from "react";
 const Navbar = () => {
   return (
     <nav className="bg-white shadow-md font-[Poppins] px-8 sm:px-16 py-6 flex justify-between items-center">
-      
+
       <div className="text-[#1090CB] font-extrabold text-3xl sm:text-4xl tracking-wide">
         LOGO
       </div>
 
       <ul className="flex gap-8 lg:gap-12 items-center text-lg sm:text-xl font-medium">
         <li>
-          <a href="#home" className="text-black hover:text-[#1090CB]">
+          <a href="#home" className="text-black hover:text-[#1090CB] ">
             Home
           </a>
         </li>
